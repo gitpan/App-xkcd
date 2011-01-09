@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-xkcd
-version:            0.06
+version:            0.061
 abstract:           ~
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
@@ -12,6 +12,9 @@ build_requires:
     ExtUtils::MakeMaker:  0
 requires:
     WWW::Mechanize:  0
+resources:
+    bugtracker:  https://github.com/trapd00r/xkcd/issues
+    repository:  https://github.com/trapd00r/xkcd
 no_index:
     directory:
         - t
