@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-xkcd
-version:            0.080
+version:            0.082
 abstract:           Command-line interface to xkcd
 author:
     - Magnus Woldrich <magnus@trapd00r.se>
